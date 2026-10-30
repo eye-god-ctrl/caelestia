@@ -6,8 +6,8 @@ tags:
 
 # NOTES.md — caelestia — the repo decision log
 
-One bullet per decision/commit, oldest first. Cross-repo lines live in the global `../NOTES.md`.
-Format: `- **YYYY-MM-DD HH:MM · what** — *why*` · tag lessons with `[taught: concept]`.
+One row per decision/commit, oldest first — append new rows at the bottom.
+Cross-repo lines live in the global `../NOTES.md`; escape any literal pipe in content as `\|`.
 
----
-
+| When | What | Why | Taught |
+|---|---|---|---|
