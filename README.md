@@ -1,3 +1,14 @@
+<!-- fork-notice:start -->
+> [!NOTE]
+> **This is a fork** of [`caelestia-dots/caelestia`](https://github.com/caelestia-dots/caelestia). Upstream is tracked on `main`; this fork's work lives on `custom`.
+>
+> **What's different from upstream:**
+> - Upstream sync 2026-10-30 (`d4c24f86`): the breaking Hyprland `lock_active()` → `lock()` fix (#535), `specialWsCloseAny` (#516), silent workspace-move keybinds (#512), picture-in-picture matching fix (#533).
+> - No fork-specific code yet — this fork currently adds only its own documentation (`AGENTS.md`, `CLAUDE.md`, `DOCS.md`, `NOTES.md`, `VERSIONS.md`).
+>
+> Last synced upstream SHA: `d4c24f86` (2026-10-30) · Full story: [DOCS.md](DOCS.md)
+<!-- fork-notice:end -->
+
 # caelestia
 
 This is the main repo of the Caelestia dotfiles and contains user configs for
