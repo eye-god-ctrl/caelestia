@@ -5,7 +5,7 @@
 > **What's different from upstream:**
 > - Upstream sync 2026-10-30 (`d4c24f86`): the breaking Hyprland `lock_active()` → `lock()` fix (#535), `specialWsCloseAny` (#516), silent workspace-move keybinds (#512), picture-in-picture matching fix (#533).
 > >
-> Last synced upstream SHA: `d4c24f86` (2026-10-30) · Full story: [DOCS.md](DOCS.md)
+> Last synced upstream SHA: `01d2df329240be60148d25804690779a078c6378` (2026-11-15) · Full story: [DOCS.md](DOCS.md)
 <!-- fork-notice:end -->
 
 # caelestia
