@@ -11,3 +11,9 @@
 /fish/conf.d/
 
 .SRCINFO
+
+AGENTS.md
+CLAUDE.md
+DOCS.md
+NOTES.md
+VERSIONS.md
